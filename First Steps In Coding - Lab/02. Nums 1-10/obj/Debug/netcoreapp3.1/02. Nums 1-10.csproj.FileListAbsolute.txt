@@ -1,0 +1,14 @@
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\bin\Debug\netcoreapp3.1\02. Nums 1-10.exe
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\bin\Debug\netcoreapp3.1\02. Nums 1-10.deps.json
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\bin\Debug\netcoreapp3.1\02. Nums 1-10.runtimeconfig.json
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\bin\Debug\netcoreapp3.1\02. Nums 1-10.runtimeconfig.dev.json
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\bin\Debug\netcoreapp3.1\02. Nums 1-10.dll
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\bin\Debug\netcoreapp3.1\02. Nums 1-10.pdb
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\obj\Debug\netcoreapp3.1\02. Nums 1-10.csproj.AssemblyReference.cache
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\obj\Debug\netcoreapp3.1\02. Nums 1-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\obj\Debug\netcoreapp3.1\02. Nums 1-10.AssemblyInfoInputs.cache
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\obj\Debug\netcoreapp3.1\02. Nums 1-10.AssemblyInfo.cs
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\obj\Debug\netcoreapp3.1\02. Nums 1-10.csproj.CoreCompileInputs.cache
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\obj\Debug\netcoreapp3.1\02. Nums 1-10.dll
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\obj\Debug\netcoreapp3.1\02. Nums 1-10.pdb
+C:\Users\venci\source\repos\First Steps In Coding - Lab\02. Nums 1-10\obj\Debug\netcoreapp3.1\02. Nums 1-10.genruntimeconfig.cache
