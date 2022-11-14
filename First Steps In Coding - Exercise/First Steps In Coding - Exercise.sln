@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. USD to BGN", "01. USD to BGN\01. USD to BGN.csproj", "{43A8383E-8615-4180-A0D9-B4FFA3CEA82E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Radians to Degrees", "02. Radians to Degrees\02. Radians to Degrees.csproj", "{A1B7C850-6B89-470C-8E6A-E4E3491A37B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Deposit Calculator", "03. Deposit Calculator\03. Deposit Calculator.csproj", "{B215C356-948D-43AD-8ED2-0F1332F84A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Vacation Books List", "04. Vacation Books List\04. Vacation Books List.csproj", "{A4B7F09F-949D-4DA2-AC0B-FCE82875591A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Supplies for School", "05. Supplies for School\05. Supplies for School.csproj", "{A8351D6C-0603-4725-A8C4-CD4A1C4AA99C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Repainting", "06. Repainting\06. Repainting.csproj", "{0E88ED20-ED47-487C-93B1-A0848607856E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A8383E-8615-4180-A0D9-B4FFA3CEA82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A8383E-8615-4180-A0D9-B4FFA3CEA82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A8383E-8615-4180-A0D9-B4FFA3CEA82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A8383E-8615-4180-A0D9-B4FFA3CEA82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B7C850-6B89-470C-8E6A-E4E3491A37B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B7C850-6B89-470C-8E6A-E4E3491A37B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B7C850-6B89-470C-8E6A-E4E3491A37B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B7C850-6B89-470C-8E6A-E4E3491A37B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B215C356-948D-43AD-8ED2-0F1332F84A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B215C356-948D-43AD-8ED2-0F1332F84A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B215C356-948D-43AD-8ED2-0F1332F84A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B215C356-948D-43AD-8ED2-0F1332F84A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B7F09F-949D-4DA2-AC0B-FCE82875591A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B7F09F-949D-4DA2-AC0B-FCE82875591A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B7F09F-949D-4DA2-AC0B-FCE82875591A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B7F09F-949D-4DA2-AC0B-FCE82875591A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8351D6C-0603-4725-A8C4-CD4A1C4AA99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8351D6C-0603-4725-A8C4-CD4A1C4AA99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8351D6C-0603-4725-A8C4-CD4A1C4AA99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8351D6C-0603-4725-A8C4-CD4A1C4AA99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E88ED20-ED47-487C-93B1-A0848607856E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E88ED20-ED47-487C-93B1-A0848607856E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E88ED20-ED47-487C-93B1-A0848607856E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E88ED20-ED47-487C-93B1-A0848607856E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB77C054-125D-44CE-83B6-B487B26F34AD}
+	EndGlobalSection
+EndGlobal
